@@ -10,9 +10,6 @@ public class GameManager : MonoBehaviour
     public GameObject levelEnd;
     public GameObject elementalBoy;
 
-    public GameObject SettingsPanel;
-    public GameObject GameOverPanel;
-
     public int playerLives;
     public float playerHealth;
 
